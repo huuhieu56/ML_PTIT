@@ -1,0 +1,6 @@
+Model,accuracy,macro_f1,weighted_f1,train_time_sec
+naive_bayes,0.7869,0.5517,0.7441,0.48
+logistic_regression,0.7531,0.6502,0.7715,3.32
+linear_svm,0.799,0.5895,0.7687,1.74
+lightgbm,0.768,0.6305,0.7713,4.06
+ensemble_voting,0.7963,0.6096,0.7753,4.9

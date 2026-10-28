@@ -1,0 +1,74 @@
+{
+  "total": 2000,
+  "errors": 625,
+  "error_rate": 0.3125,
+  "top_pairs": {
+    "Neutral (3★) -> Negative (1-2★)": 205,
+    "Neutral (3★) -> Positive (4-5★)": 133,
+    "Positive (4-5★) -> Negative (1-2★)": 99,
+    "Negative (1-2★) -> Positive (4-5★)": 85,
+    "Negative (1-2★) -> Neutral (3★)": 56
+  },
+  "cases": [
+    {
+      "type": "Neutral (3★) -> Negative (1-2★)",
+      "text": "not a magnet backing on this as mentioned in the details. velcro.i bought this because it had a magnet backing only to find out it did not"
+    },
+    {
+      "type": "Neutral (3★) -> Negative (1-2★)",
+      "text": "ok don't care for cover on rod"
+    },
+    {
+      "type": "Neutral (3★) -> Negative (1-2★)",
+      "text": "very soft and comfortable sheets. would be great if i was using for sheets, but i bought because sheets are cheaper than buying material for sewing that some material at stores. and using this as material it was not great. issue is it falls apart super easy even past seam lines. so if it gets a hole in it out will fall apart and will become unusable"
+    },
+    {
+      "type": "Neutral (3★) -> Positive (4-5★)",
+      "text": "i rated this dress as only 3 stars because it doesn't have a zipper or velcro in the back and it's difficult for my 4 y.o. to get on. we have purchased the princess belle dress from this company and loved it because it has a zipper on the back and is so easy to get on. because it's difficult for my daughter to pull on, she tends to not play with it nearly as much as her other dresses. otherwise, it's a beautiful dress and seems to be good quality, i just wish she was able to get into it easier."
+    },
+    {
+      "type": "Neutral (3★) -> Positive (4-5★)",
+      "text": "fits perfect but the front is too light weight compared to the back. it can flip easily. i have to hold it down at all times. hoping to figure out a way to weigh it down so it’s safer."
+    },
+    {
+      "type": "Neutral (3★) -> Positive (4-5★)",
+      "text": "the app is easy to navigate and has great programming, but sadly it is not compatible with directv now so i will be deleting it."
+    },
+    {
+      "type": "Positive (4-5★) -> Negative (1-2★)",
+      "text": "this product really works. you just have to file the top clear coat. but really it’s the best way to remove gel without ruining your nails. i’ve ordered two bottles and they both came within two weeks."
+    },
+    {
+      "type": "Positive (4-5★) -> Negative (1-2★)",
+      "text": "i bought this protein every month but cookies flavor is bad"
+    },
+    {
+      "type": "Positive (4-5★) -> Negative (1-2★)",
+      "text": "much better than driving with no indication that you are a student driver. maybe in the next set you can include \"new driver\" for when people graduate out of being a student driver. (for use after you pass the road test, etc.)"
+    },
+    {
+      "type": "Negative (1-2★) -> Positive (4-5★)",
+      "text": "definitely not what i expected! now to say this i usually use the doc johnson seven wonders vibrator which is awesome i think they stop making it so i had to find an alternative so i found this one the price was decent read the reviews you know looked at everybody else reviews and base it off of that so hey i ordered okay so i had it for a few weeks now wanted to give an honest review and honestly. i hate it i think it's more or less the design of the applicator i don't really like the fatness of it i really like to sleep slim ones that to me they really stimulate your clit a whole lot better but hey that's just my opinion i went by it again that we looking for alternative hope this helps anybody on the quest to find a good bullet lol lol"
+    },
+    {
+      "type": "Negative (1-2★) -> Positive (4-5★)",
+      "text": "the sunflower seeds look so good but they tasted old."
+    },
+    {
+      "type": "Negative (1-2★) -> Positive (4-5★)",
+      "text": "this game is okay. however, when i play, instead of swiping up and jumping over trees, apparently, i swipe up and bump into trees. i'm tired of getting the message 'trees hurt.' or 'tree hugger!' it gets annoying after a while, trust me. ok, fine. this game is a nightmare! jk. it's awesome. (sarcastic)"
+    },
+    {
+      "type": "Negative (1-2★) -> Neutral (3★)",
+      "text": "one of my glasses came chipped, i ordered the amount that i did for a reason and now i am short one. very very annoyed that one was chipped. but the 5 that were okay i really like."
+    },
+    {
+      "type": "Negative (1-2★) -> Neutral (3★)",
+      "text": "i have used quite a few different lash growth serums, some more expensive than others, and this one is not great-- especially for the price. if you want real results you are better off paying for the r+f lash serum because that will actually work."
+    },
+    {
+      "type": "Negative (1-2★) -> Neutral (3★)",
+      "text": "though these technically serve their purpose, and are easy enough to handle, i personally wish these were not as transparent. because they are so transparent, they actually are much lighter {individually} than the picture. you can see the covered bingo card numbers right through these chips. i will look for some opaque (not transparent) colored chips."
+    }
+  ]
+}

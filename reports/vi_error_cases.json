@@ -1,0 +1,74 @@
+{
+  "total": 2224,
+  "errors": 447,
+  "error_rate": 0.201,
+  "top_pairs": {
+    "Neutral (3★) -> Positive (4-5★)": 123,
+    "Neutral (3★) -> Negative (1-2★)": 115,
+    "Negative (1-2★) -> Positive (4-5★)": 88,
+    "Positive (4-5★) -> Negative (1-2★)": 70,
+    "Negative (1-2★) -> Neutral (3★)": 27
+  },
+  "cases": [
+    {
+      "type": "Neutral (3★) -> Positive (4-5★)",
+      "text": "dùng hơn 2 tuần cảm_giác mọi thứ ok . chỉ có sóng sánh hơi kém . hay mất sóng . có cách nào khắc_phục không qtv , mong phản_hồi"
+    },
+    {
+      "type": "Neutral (3★) -> Positive (4-5★)",
+      "text": "camera trước khi khởi_động phát ra âm_thanh rất khó_chịu . không giống bth mà kêu rè_rè kiểu gì ấy"
+    },
+    {
+      "type": "Neutral (3★) -> Positive (4-5★)",
+      "text": "sản_phẩm khá tốt trong tầm_giá nhưng sao sạc pin nó nóng_thế mặc_dù tôi đã tắt ánh_sáng và mạng đi và xóa các tác_vụ trang nhưng nó vẫn thế"
+    },
+    {
+      "type": "Neutral (3★) -> Negative (1-2★)",
+      "text": "điện_thoại còn trong thời_gian bảo_hành , một loa bị hỏng , nhưng cần 10 ngày để sửa_chữa là không_thể chấp_nhận . cẩn_trọng khi mua ."
+    },
+    {
+      "type": "Neutral (3★) -> Negative (1-2★)",
+      "text": "sau 1 tuần sử_dụng pin cũng bình_thường camera hơi xấu . lướt wed chơi game ở mức_độ tạm chấp_nhận được . máy ram 6 gb mà chạy đa_nhiệm cực chán chỉ được bộ_nhớ trong của máy lên tận 128 nên không lo bị đầy theo đánh_giá của mình trong tầm giá này vivo y19 thua máy khác về mọi mặt"
+    },
+    {
+      "type": "Neutral (3★) -> Negative (1-2★)",
+      "text": "loa điện_thoại quá nhỏ . 1 thág trở_lại đây liên_tục gặp tình tình_trạng âm_thanh kém full hết cở mà nghe nhạc , gọi điện_thoại , gọi zalo , nói mic trong game đều rất nhỏ phải đeo tai nghe . quá tệ"
+    },
+    {
+      "type": "Negative (1-2★) -> Positive (4-5★)",
+      "text": "máy thiết_kế quá đẹp , dùng được mấy hôm rồi thấy máy vẫn ổn , tiếc là pin tụt quá nhanh , pin_sạc thì nhanh nóng 😌"
+    },
+    {
+      "type": "Negative (1-2★) -> Positive (4-5★)",
+      "text": "cho em hỏi là máy em , mua được 1 tuần mà máy lâu_lâu em nghe cái cốc , như là bị lỏng gì ở trong vậy , như_vậy có vấn_đề j không anh"
+    },
+    {
+      "type": "Negative (1-2★) -> Positive (4-5★)",
+      "text": "hàng sài tạm thì được không mượt_mà lắm . vi xử_lý kém . nếu chơi game lien_quan thì yếu"
+    },
+    {
+      "type": "Positive (4-5★) -> Negative (1-2★)",
+      "text": "nói_chung điện_thoại xài oke , chỉ có cái pin là không ưng bụng lắm . pin sạc sáng 6 h là 100 % tới chiều 15 h 16 h cũng rớt khoảng 25 % đến 30 % mặc_dù không dùng vào chơi game hay truy_cập trang_mạng khác chỉ thỉnh_thoảng nghe gọi thôi mà cũng rớt nhiều pin đến vậy 4.000 mah mà cứ như 3.000 mah vậy"
+    },
+    {
+      "type": "Positive (4-5★) -> Negative (1-2★)",
+      "text": "sim mobi của mình không đọc , dù sim viettel dù đổi từ 1 qua 2 vẫn ok , nhưng sim mobi lại không hiển_thị"
+    },
+    {
+      "type": "Positive (4-5★) -> Negative (1-2★)",
+      "text": "điện_thoại e mới mua hôm wa.sao về xài cảm_thấy hao pin quá . không biết tại điện_thoại hay bị lỗi gì không . giờ e phải làm_sao ."
+    },
+    {
+      "type": "Negative (1-2★) -> Neutral (3★)",
+      "text": "quá thất_vọng . đang xài u10 chuyển qua con này do thiết_kế màu đẹp hơn nhưng đơ , xài_loạn cảm_ứng ."
+    },
+    {
+      "type": "Negative (1-2★) -> Neutral (3★)",
+      "text": "tưởng máy thế_nào sạc tầm 1 tiếng máy nóng_bỏng như có ai dùng máy điện_thoại khác không nóng mà máy lây nóng"
+    },
+    {
+      "type": "Negative (1-2★) -> Neutral (3★)",
+      "text": "sao máy của m sóng_mạng yếu quá , bình_thường full , nhưng đưa đó máy chỉ được 2 , 3 vạch là sao vậy"
+    }
+  ]
+}
